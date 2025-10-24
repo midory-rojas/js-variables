@@ -2,10 +2,27 @@
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
 
+
+// Dichiarazione di variabili
+const name = "Midory"; 
+
+// Stampa del nome nella console
+console.log(name);
+
 // 2. Tipi primitivi
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+
+// Creazione delle tre variabili
+const number = 33;
+const text = "Hello, World";
+const bool = true;
+
+// Stampa dei valore nella console
+console.log (number);
+console.log (text);
+console.log (bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
